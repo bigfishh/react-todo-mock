@@ -83,21 +83,7 @@ class App extends React.Component{
           todos: changedArr
       })
     })
-    // const changedObj = {...objNeedChange, completed: !objNeedChange.completed}
-    // console.log(this.state.todos)
 
-    // const changedArr = this.state.todos.map((todoObj) => {
-    //   if(todoObj.id === objNeedChange.id){
-    //     return changedObj
-    //   } else {
-    //     return todoObj
-    //   }
-    // })
-    // console.log(changedArr)
-
-    // this.setState({
-    //   todos: changedArr
-    // })
   }
 
   render(){
