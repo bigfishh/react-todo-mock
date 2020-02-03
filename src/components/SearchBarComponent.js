@@ -7,6 +7,7 @@ export default class SearchBarComponent extends Component {
   }
 
   render() {
+
     return (
     <div className="ui input fluid"> 
         <input onChange={this.handleChange} autoComplete="off" placeholder="Search Term" type="text" name="searchTerm"/>
