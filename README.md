@@ -15,8 +15,7 @@ Let's run the app with `npm run start` or `npm start`. You will be asked if to u
 
 ## Background
 
-We have a React To Do List. We want the App to manage which ones are Completed and which ones are Incomplete (too lazy to keep track).
-We will be fetching the list of To Dos from the json server and render each one onto the page while organizing which ones go in the appropriate category. At the same time, we want to be able to add and remove todos from the list.
+We have a React To Do List. We want the App to manage which ones are Completed and which ones are Incomplete (too lazy to keep track). We will be fetching the list of To Dos from the json server and render each one onto the page while organizing which ones go in the appropriate category. At the same time, we want to be able to add and remove todos from the list.
 
 Ultimately, we want our App to look something like:
 

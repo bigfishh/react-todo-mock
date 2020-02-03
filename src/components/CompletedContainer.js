@@ -2,9 +2,7 @@ import React from 'react'
 import ToDoCard from './ToDoCard'
 
 const CompletedContainer = (props) => {
-    // console.log(props.completedList)
 
-    // console.log(props)
 
     let {allTodo} = props
     // console.log(allTodo)
